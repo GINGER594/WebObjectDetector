@@ -8,6 +8,7 @@ Features:
 - configurable timeout threshold
 
 --- How to use ---
+
 Basic use:
 - ./wod_YOUR_OS <URL> <path-to-words-file>
 
