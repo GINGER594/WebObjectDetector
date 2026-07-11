@@ -10,7 +10,7 @@ Features:
 --- How to use ---
 
 Basic use:
-- ./wod_YOUR_OS URL  path-to-words-file
+- ./wod_YOUR_OS URL path-to-words-file
 
 Optional flags:
 - -ua : path to User-Agents list - one will be selected at random for each GET request
